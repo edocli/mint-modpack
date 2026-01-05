@@ -1,4 +1,4 @@
-name = "Mint"
+name = "mint"
 author = "0906PM"
 version = "0.1.1"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "686a2b344f7f162d75ee2fe65a3273d0f4e43e6b0b9e62f91d6a13148b874185"
+hash = "6a570f4efd3de4fb5b425ed6507645d3256387a052596252830ed28b23ef2fd2"
 
 [versions]
 fabric = "0.18.4"

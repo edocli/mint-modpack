@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "1.txt"
+hash = "321c5ed6129c58cef1735ef81e167d0b1eaed4947ce3c04e4240f4f03fd0e045"
+
+[[files]]
+file = "add.py"
+hash = "d97b6236cf99206366181eb98dc3758c1e3ce94dbde60be0fd23556e84c82bb7"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
