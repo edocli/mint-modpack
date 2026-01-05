@@ -209,6 +209,11 @@ hash = "f87252f70d1fa65de868bde3162d7a41e136447f44ce6683473f48026b093393"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "a0b2b689e7e6eb10cd342da48dd605cfbe09d782790a42089f31835a54e37b1a"
+metafile = true
+
+[[files]]
 file = "mods/nuit.pw.toml"
 hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
 metafile = true
