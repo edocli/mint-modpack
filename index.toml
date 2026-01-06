@@ -6,7 +6,7 @@ hash = "321c5ed6129c58cef1735ef81e167d0b1eaed4947ce3c04e4240f4f03fd0e045"
 
 [[files]]
 file = "add.py"
-hash = "42ca45dc3ddbabfc684461b0b645245cdefa03b7d056b8e2b5185871d35446b4"
+hash = "d97b6236cf99206366181eb98dc3758c1e3ce94dbde60be0fd23556e84c82bb7"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -50,7 +50,7 @@ metafile = true
 
 [[files]]
 file = "mods/connectivity.pw.toml"
-hash = "dfb3791da12798522449390e0bd4199ee47ee682c10e37dffa534713decd9913"
+hash = "0179a3dc5e3edae377999da95a982679bcda21dd4ed863e53c4358db71346835"
 metafile = true
 
 [[files]]
@@ -60,7 +60,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "4accbc204fe2a7dd1680dd665f5266afe023369f0adf3a0e79fdc24db326acf9"
+hash = "c0515a8643edc8a9c600457eecf4b870d1b7ca66bbb649c4c43ee880b847fdfd"
 metafile = true
 
 [[files]]
@@ -70,7 +70,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+hash = "b2a6e13d1fefa68ffe13304f74f5e3173ea5d24d30dd84ed32b564e6da88f31f"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
+hash = "33cf6c7885bb2a0d2e95467b546565cad5bd2714e2e53601ab8011b6910eac26"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
+hash = "4fb1efcf4c3c16eac7382421134d6472130884b9e4dd2a57fe0eb62c47203173"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
+hash = "ac064da8e05f3c215e850f34a78004e0742575c3cef3165040cb5cd5e6a40e99"
 metafile = true
 
 [[files]]
@@ -230,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit-interop.pw.toml"
-hash = "a0b2b689e7e6eb10cd342da48dd605cfbe09d782790a42089f31835a54e37b1a"
+hash = "30b93a2927883fd0395fbd7dfd32a09d2099a1c3a861c104743e81f8a2fbda09"
 metafile = true
 
 [[files]]
