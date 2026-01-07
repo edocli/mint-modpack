@@ -79,4 +79,10 @@ libIPN (https://modrinth.com/mod/onSQdWhM)\
 
 Simple Voice Chat
 FancyMenu
-FTB Ultimine
+FTB Ultimine //cf
+// Mouse Tweaks / Inventory Essentials (替代Mouse Tweaks， 与IPN略冲突)
+Keymap [Maintained] //cf 键位冲突可视化 替代Controlling
+Drippy Loading Screen\
+
+// Terralith 老存档不加
+// 传送模组太多不看 Waystones
