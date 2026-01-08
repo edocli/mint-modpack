@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "2bf51311f5710534fb113a8647013544095d077b37c466276335860a244997a1"
+hash = "05490592240c746b4c3e192e1ba7e05d778850c9a91dfd09a1218d8c0c38084c"
 
 [[files]]
 file = "add.py"
