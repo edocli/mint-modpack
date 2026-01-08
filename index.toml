@@ -419,6 +419,11 @@ hash = "6247a7c55d598c185c0a78c6c2c10eac870b64bc4ab58039e98b9715b90b8e9b"
 metafile = true
 
 [[files]]
+file = "mods/open-parties-and-claims.pw.toml"
+hash = "3f8f31eed84a4a29618cf04e300ea02ace03095ff4e8c4c23ec92f09849ed1f0"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "9ed765da71f977af16c71b3ff56356dea5a149d9626277e4d4868941f8efa1b0"
 metafile = true
@@ -506,6 +511,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "5cd3420078c7c24bf7414c7243a69b2d2a21c3c5e29150444697b11a001c44d8"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
 metafile = true
 
 [[files]]
@@ -611,4 +621,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
 hash = "d77dfc3bf13ca53b19b15564800167012835deab25e6a97a09b4a699bd5843e8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "531a8d239c952428d9a633ff99cb03461656ada28decbe2e1ef19f60f7fd5726"
 metafile = true
