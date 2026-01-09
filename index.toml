@@ -329,6 +329,11 @@ hash = "c27c70a1fdb36fc974c98b6c678de8d1c2fd8e3705d90ad5089b82421933bf00"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "ca74da88eec22117d3ba4e20041154749fbc12b8034762a3e0c9070b8e2f0fe3"
 metafile = true
