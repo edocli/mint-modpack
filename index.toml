@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "a0b86992d542ec41c1238bccf074c676d9a8dc73da10b50155425a580bb20101"
+hash = "a44778cb0af767f011d49b82ed1f30bd63db698c103861758721ff772aeefceb"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator.pw.toml"
-hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
+hash = "c89f5d362e6463c6d326f24090d7ebe501a0113d4ce5f494f2200da4c428ffc2"
 metafile = true
 
 [[files]]
@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/blossom-blade.pw.toml"
-hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
+hash = "69fa2a1cdfa0ffa2c9407d4b5d5e0723431c3820a296d472fee6c124c50b0704"
 metafile = true
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
+hash = "5c9d9862528553c8f029b4f300c02606d90292d7196d83427206309e42b19bf6"
 metafile = true
 
 [[files]]
@@ -126,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/dismount-entity.pw.toml"
-hash = "014cf6e6912ff9476c0ae25b92b2c61aa71c5f780ec670b43e3b30602620bde3"
+hash = "41a6d40e46a685470508c4758088dc13c812a44fa54c2773ffdd4dd02e5e5225"
 metafile = true
 
 [[files]]
@@ -356,7 +356,7 @@ metafile = true
 
 [[files]]
 file = "mods/nullscape.pw.toml"
-hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+hash = "ef8a86b8391732e6984f2cd7d262fb50607a19dff8143817b5c9344542766783"
 metafile = true
 
 [[files]]
@@ -451,7 +451,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+hash = "269acb427f14832a51eea0f70c4e6039a7cf8747e12b70efc16eed74ec64f977"
 metafile = true
 
 [[files]]
@@ -471,12 +471,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
+hash = "0985f552300e242c9087ca77e873362cff231d1b16233b518bcaa34fd9fa10ad"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+hash = "e4f6efc641d669de5e1637a09381c66e71000b2ecfe8e0b4b1ae80370ef1e144"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/true-ending.pw.toml"
-hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
+hash = "30c053286f9a759d8b8330fb6cd77c62b5b26ef818c6aa114d3d88d49ea3e92b"
 metafile = true
 
 [[files]]
