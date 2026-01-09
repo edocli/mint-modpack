@@ -5,10 +5,6 @@ file = "1.txt"
 hash = "a0b86992d542ec41c1238bccf074c676d9a8dc73da10b50155425a580bb20101"
 
 [[files]]
-file = "add.py"
-hash = "d97b6236cf99206366181eb98dc3758c1e3ce94dbde60be0fd23556e84c82bb7"
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "4acc272966eb7cb8792e71ac00aabc5aa90886733dbdfaee4cab7be0bdb9a7e1"
 metafile = true
