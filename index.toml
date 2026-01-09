@@ -324,6 +324,16 @@ hash = "025c644cfcbdb32ceaa85029588101c71089888a5dd6b83d2b54da285718efa5"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-fabric.pw.toml"
+hash = "63273748b9bbadcfefedc5bc5fddfe367d637abd094c1f931b7ab9e720dd58b2"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "88a52b0be49e854235bfbf15c68c855d6a42a00eb2700744286cced41936ff41"
 metafile = true
