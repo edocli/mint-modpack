@@ -25,6 +25,11 @@ hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "0c8a62a213ee50629ec25fbddc988cbdeae36d906df8d5e8924dfd172d116166"
 metafile = true
@@ -42,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "5eade022da85f205b7f13e0610fb1a9bd8f06d99d584ff5d6bd708e846a87f48"
+metafile = true
+
+[[files]]
+file = "mods/blossom-blade.pw.toml"
+hash = "3d5c7a4eff33a51d6a52ed8d86b98877dcddc8ba348677df91ec80530f3f9af6"
 metafile = true
 
 [[files]]
@@ -110,6 +120,11 @@ hash = "9326ad2077287f079ab68743e5d597af75bf7f166927079fcfa7545fc86c4cd5"
 metafile = true
 
 [[files]]
+file = "mods/deuf-refabricated.pw.toml"
+hash = "7ef01e66e6cccd6111739ff50ba0123c7d42b21b8a45c52b0007b68db043599b"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "014cf6e6912ff9476c0ae25b92b2c61aa71c5f780ec670b43e3b30602620bde3"
 metafile = true
@@ -122,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "816b719eb96d91e39a44ead15dbe176951484a1915c52f05eed9100dfadf280d"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "0c4c4fa5b5241b28397eeba0890673147e972ea34b705de381c9ade8ea336847"
 metafile = true
 
 [[files]]
@@ -202,6 +222,16 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "fe3e6bdf7ee24ca65e68ffe7110f0eb6c9c27bfcb94b190f63063aba4c7ff2bd"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-fabric.pw.toml"
+hash = "b28167f09bbcaca3fee27d748191ed19ce37b9382bb4ae693a20f415f80ed305"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "d5faaf6d7e4be8bdf9b1b200edee175c2704ce13abad9d1951a4d4a45b432d4e"
 metafile = true
 
 [[files]]
@@ -395,6 +425,11 @@ hash = "2428fa3db05e2f3efd181e9a1b37c3a9a293c62b9ab82abc846c311345d8ef59"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "c57e6153e7e3ed9f8bd8149ab4e11c76cb8050304187bf2fb5972086bf8e8a58"
 metafile = true
@@ -445,6 +480,11 @@ hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "ab1caf459e3b803868cbf28639c9ad86e016d650ca2e1c6a78a38d2436abdafd"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "a5b7358eb8b4795a3ab36872a8c2a0e1c1bf6a518a168f2eb10b695a35cb64b5"
 metafile = true
@@ -455,8 +495,18 @@ hash = "81d2ae2efc95d96d7bc0c04b7ad969766bcec0b7b1e817c80c7b63c340c06644"
 metafile = true
 
 [[files]]
+file = "mods/true-ending.pw.toml"
+hash = "0bc775f6b740e9fa539e8237f49ce5265a15f16725fef1deeab7097ea6571099"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d912d9e221bd014cecf575f4389dee37238258ef69ad27ba64c021487441da46"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
