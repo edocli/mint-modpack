@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "c39f20e9841810889beb1b60f6303d3155b1e81cd0cbadc3d19e34d3ee5f5709"
+hash = "0af9763199f773a2f6652ce587a9fffece68e4448478d8cf3ea93de43adccc29"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/block-runner.pw.toml"
-hash = "670b5d665c4e586698d244ba3e0862c6feb94ca23c0d1312f000ee81aeaa52ed"
+hash = "bc9e91be76349056b78a79aa1034d415765334e7fc9550649399dc1f5fee7adc"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
-hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
+hash = "71000b312b12a7c1556899206571c6a823d743d0b268e28286357a9fc9535f9d"
 metafile = true
 
 [[files]]
