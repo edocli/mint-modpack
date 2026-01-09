@@ -45,6 +45,11 @@ hash = "4532263b7e8c2ff26a5bb2303a25200509c58686baaefe7b88cc5cd8e3efa258"
 metafile = true
 
 [[files]]
+file = "mods/better-nether-map.pw.toml"
+hash = "c6f5fdc29463e9eeb350f691f69c21d001269108c3908e3c36df62015bc0151a"
+metafile = true
+
+[[files]]
 file = "mods/better-than-mending.pw.toml"
 hash = "70d69b1a262ecae1577a0c167d1fc5bde116b69acd9765085dfe9012f2998252"
 metafile = true
@@ -150,6 +155,11 @@ hash = "cb8962724f1752a9dbe170cb76127fa6abe5eb24c88598a1d720591d6f92411a"
 metafile = true
 
 [[files]]
+file = "mods/easy-elytra-takeoff.pw.toml"
+hash = "f1235ef1fba62a9816767888b8f0149732e020382d28baad512405c2cafb2886"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "816b719eb96d91e39a44ead15dbe176951484a1915c52f05eed9100dfadf280d"
 metafile = true
@@ -225,6 +235,11 @@ hash = "9df3c501b49a230b801971cec21fc534d3b9bd506c1c07331fef455f2a96ec53"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "1bd2525bd0b9c600f3ce691e72e61547743fb3b1d5b5b8b8fdbe370cd8adf720"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "7ed8af9b8f0774384b937a2fd547a0037bedea41209fd972d7b99a1bd1eaf476"
 metafile = true
@@ -232,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "e3f9f0233938416ad52533f870fd79b3c5b7ffff5625c03b7d4f234a238b602b"
+metafile = true
+
+[[files]]
+file = "mods/hopo-better-underwater-ruins.pw.toml"
+hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
 
 [[files]]
@@ -322,6 +342,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "daec0d362957def2195281d781f0d4937f95e162fd0304a4965edc79de1a62e1"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "d7aaccec2291f2be791ec0cc3185102eec7aabc9323f6262343293a375603db5"
 metafile = true
 
 [[files]]

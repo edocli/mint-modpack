@@ -103,10 +103,16 @@ https://modrinth.com/mod/kleeslabs
 
 https://modrinth.com/mod/horseman
 https://modrinth.com/mod/elytra-trims
-https://modrinth.com/mod/yigd\
+https://modrinth.com/mod/yigd
 https://modrinth.com/mod/grind-enchantments
+
+page9
 https://modrinth.com/mod/almost-unified
 https://modrinth.com/mod/bow-infinity-fix
+
+page10
+https://modrinth.com/plugin/custom-player-models
+https://modrinth.com/mod/glowing-torchflower
 
 // Plasmo Voice没有url唱片，可惜
 
@@ -122,3 +128,5 @@ jei emi
 //Geophilic可以加老存档的群系轻微美化（欧耶
 
 //Villages&Pillages有TnT跳过
+
+[Let's Do Addon] Compact
