@@ -102,6 +102,9 @@ https://modrinth.com/mod/carpet
 https://modrinth.com/mod/kleeslabs
 
 https://modrinth.com/mod/horseman
+https://modrinth.com/mod/elytra-trims
+https://modrinth.com/mod/yigd\
+https://modrinth.com/mod/grind-enchantments
 
 // Plasmo Voice没有url唱片，可惜
 

@@ -45,6 +45,11 @@ hash = "4532263b7e8c2ff26a5bb2303a25200509c58686baaefe7b88cc5cd8e3efa258"
 metafile = true
 
 [[files]]
+file = "mods/better-than-mending.pw.toml"
+hash = "cb618e475252c9d75bd32b92243352c1f5bf7f0bf5eeb41a3bb78d1fb90ed8cb"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "5eade022da85f205b7f13e0610fb1a9bd8f06d99d584ff5d6bd708e846a87f48"
 metafile = true
@@ -52,6 +57,11 @@ metafile = true
 [[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "69fa2a1cdfa0ffa2c9407d4b5d5e0723431c3820a296d472fee6c124c50b0704"
+metafile = true
+
+[[files]]
+file = "mods/boids.pw.toml"
+hash = "d552818d69391de8a10945619b9e50ba25df1081d5d31a8fbd23d644fbb56a5c"
 metafile = true
 
 [[files]]
@@ -130,6 +140,11 @@ hash = "41a6d40e46a685470508c4758088dc13c812a44fa54c2773ffdd4dd02e5e5225"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "3f15fb2df4db2178eb1c112a0d1a9d807600bf9be2b4049b5eda8e58427f9389"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cb8962724f1752a9dbe170cb76127fa6abe5eb24c88598a1d720591d6f92411a"
 metafile = true
@@ -147,6 +162,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "08784382ad844087012493864fcc24a68530dc285d8145cf0ff87e347935c618"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "a3891363dcc4c96b0e19718ce53e1a1b4c467b4681f99af568796e0a07050f8d"
 metafile = true
 
 [[files]]
@@ -202,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/geophilic.pw.toml"
 hash = "7ed8af9b8f0774384b937a2fd547a0037bedea41209fd972d7b99a1bd1eaf476"
+metafile = true
+
+[[files]]
+file = "mods/icterine.pw.toml"
+hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
 metafile = true
 
 [[files]]
@@ -320,6 +345,11 @@ hash = "041187f58c7c416c8e5044907238e1896b0f21dbf05ab04c04803c3feaa7e78c"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "10430695ad67fd14a9e208c0ebe6efaf073cc78e3292f52159b2d04b75b87214"
+metafile = true
+
+[[files]]
 file = "mods/neruina.pw.toml"
 hash = "f42ebaf193a5b9571fd69afd92ad3d6e0b73535ab97e385314801b81b6325767"
 metafile = true
@@ -435,6 +465,11 @@ hash = "c57e6153e7e3ed9f8bd8149ab4e11c76cb8050304187bf2fb5972086bf8e8a58"
 metafile = true
 
 [[files]]
+file = "mods/snow-under-trees-remastered.pw.toml"
+hash = "c88fc616045499e1e793fbb68a7906e1f4b744452bbd5eff8601b35f6fd7d069"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f46a28713596f69fcbbd90870844a2e3e6ffc6000ae3ceb6164fc39223bd6175"
 metafile = true
@@ -462,6 +497,11 @@ metafile = true
 [[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "6f572dc7bf4706ddce00df4d939b75fc2e3195b21af985f44bc8be2b500471a8"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
 
 [[files]]
