@@ -60,6 +60,11 @@ hash = "5eade022da85f205b7f13e0610fb1a9bd8f06d99d584ff5d6bd708e846a87f48"
 metafile = true
 
 [[files]]
+file = "mods/block-runner.pw.toml"
+hash = "670b5d665c4e586698d244ba3e0862c6feb94ca23c0d1312f000ee81aeaa52ed"
+metafile = true
+
+[[files]]
 file = "mods/blossom-blade.pw.toml"
 hash = "69fa2a1cdfa0ffa2c9407d4b5d5e0723431c3820a296d472fee6c124c50b0704"
 metafile = true
@@ -117,6 +122,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "481d1dd4f1e647594a0b9db843a75c346ecba6bd52b56f446eb4bfdc7da6028e"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "9eaeb03f62828ce0b3490196abc8b5c4e46c88abbd8db335c2f4d30e37e1a6be"
 metafile = true
 
 [[files]]
@@ -322,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
@@ -597,6 +612,16 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-fix.pw.toml"
+hash = "bc3bc01c073708a936373576fbbbc6bc1737b19ad35df2978c65d7440e6a8ad4"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
 metafile = true
 
 [[files]]
