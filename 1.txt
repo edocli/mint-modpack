@@ -105,6 +105,8 @@ https://modrinth.com/mod/horseman
 https://modrinth.com/mod/elytra-trims
 https://modrinth.com/mod/yigd\
 https://modrinth.com/mod/grind-enchantments
+https://modrinth.com/mod/almost-unified
+https://modrinth.com/mod/bow-infinity-fix
 
 // Plasmo Voice没有url唱片，可惜
 

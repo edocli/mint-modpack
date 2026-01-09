@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "a44778cb0af767f011d49b82ed1f30bd63db698c103861758721ff772aeefceb"
+hash = "c39f20e9841810889beb1b60f6303d3155b1e81cd0cbadc3d19e34d3ee5f5709"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -46,7 +46,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-than-mending.pw.toml"
-hash = "cb618e475252c9d75bd32b92243352c1f5bf7f0bf5eeb41a3bb78d1fb90ed8cb"
+hash = "70d69b1a262ecae1577a0c167d1fc5bde116b69acd9765085dfe9012f2998252"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
-hash = "3f15fb2df4db2178eb1c112a0d1a9d807600bf9be2b4049b5eda8e58427f9389"
+hash = "0d7166d7b95a9311ca0e4fea8ba4440da2a3364d35fce71a6b5a54b6a074f672"
 metafile = true
 
 [[files]]
@@ -166,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-view-distance.pw.toml"
-hash = "a3891363dcc4c96b0e19718ce53e1a1b4c467b4681f99af568796e0a07050f8d"
+hash = "41b0a23a0c7fc9492a1e883071c5eff38024912e2e4c84daeccb4812a6b8dc32"
 metafile = true
 
 [[files]]
@@ -220,13 +220,23 @@ hash = "324a179d92186b13ec7059000e01739e1e627fd08eade9b59962e968d6292f6b"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "9df3c501b49a230b801971cec21fc534d3b9bd506c1c07331fef455f2a96ec53"
+metafile = true
+
+[[files]]
 file = "mods/geophilic.pw.toml"
 hash = "7ed8af9b8f0774384b937a2fd547a0037bedea41209fd972d7b99a1bd1eaf476"
 metafile = true
 
 [[files]]
+file = "mods/healing-campfire.pw.toml"
+hash = "e3f9f0233938416ad52533f870fd79b3c5b7ffff5625c03b7d4f234a238b602b"
+metafile = true
+
+[[files]]
 file = "mods/icterine.pw.toml"
-hash = "74bc91c604bab9438fbfc7ca08f745ed3cd65aefefb30fc4a78de0f931314528"
+hash = "35cefd5b131660e696cbb6e9732d49cbce6c39de8995008965a67b4f70b43407"
 metafile = true
 
 [[files]]
@@ -242,6 +252,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "ec0e252c91555b61ba6132207c925d95e85e26ca16f8082e47b367860a70cc88"
+metafile = true
+
+[[files]]
+file = "mods/inventory-totem.pw.toml"
+hash = "e021e02498726e2976cb713722733dfec7bd45d4b1b93738e06f76822873a198"
 metafile = true
 
 [[files]]
@@ -530,6 +545,11 @@ hash = "a5b7358eb8b4795a3ab36872a8c2a0e1c1bf6a518a168f2eb10b695a35cb64b5"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "81d2ae2efc95d96d7bc0c04b7ad969766bcec0b7b1e817c80c7b63c340c06644"
 metafile = true
@@ -537,6 +557,11 @@ metafile = true
 [[files]]
 file = "mods/true-ending.pw.toml"
 hash = "30c053286f9a759d8b8330fb6cd77c62b5b26ef818c6aa114d3d88d49ea3e92b"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "f0e99d7e2883e3bf83f4f6e24aa415624f658c3544fd6ed5a2029afd0db57e7b"
 metafile = true
 
 [[files]]
