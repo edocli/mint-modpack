@@ -91,25 +91,23 @@ https://modrinth.com/mod/spark
 
 https://modrinth.com/mod/starter-kit
 
-https://modrinth.com/mod/fabric-seasons
+https://modrinth.com/mod/fabric-seasons + Fabric Seasons: Delight Compat
+
+https://modrinth.com/mod/crafting-tweaks
+
+https://modrinth.com/mod/axiom //牛逼
+
+https://modrinth.com/mod/carpet
 
 paxi
 
+//FallingTree 应该有上位
 //RightClickHarvest 右键收获
-//FallingTree
-有上位
+//Double Doors
+有上位 (Quark)
 
 jei emi
 
+//Geophilic可以加老存档的群系轻微美化（欧耶
 
-Repurposed Structures - Fabric
-by TelepathicGrunt
-添加更多原版结构的变体和特色，例如丛林要塞！
-
-Geophilic
-by bebebea_loste
-对原版世界生成地形的微妙改动重构！重新设计！
-
-Crafting Tweaks
-由 BlayTheNinth
-按下按钮即可在任意（受支持的）合成窗口中旋转、平衡或清空合成矩阵。
+//Villages&Pillages有TnT跳过
