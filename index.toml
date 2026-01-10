@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "98cd470af90f638569822c421a19b0bc357a7169cfc6e0a004f5f10823f5d814"
+hash = "932d3ea74dd29c1e42a3adae153f5e95cfbc22dfcbe5d05e18f8751bf67a1e7c"
 
 [[files]]
 file = "add.py"
@@ -254,11 +254,6 @@ hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
 metafile = true
 
 [[files]]
-file = "mods/luckperms.pw.toml"
-hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
-metafile = true
-
-[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "ac064da8e05f3c215e850f34a78004e0742575c3cef3165040cb5cd5e6a40e99"
 metafile = true
@@ -266,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/mc-249136-fix.pw.toml"
 hash = "034e3cbe6739968adf7bc417f7746bb798b8ceda894c07a8c43a8c7c68412356"
+metafile = true
+
+[[files]]
+file = "mods/mclogs.pw.toml"
+hash = "ee23c499363f708c44209cf7a8a69bc8580ae3f13885df72167d5b8af1bb632a"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "ca74da88eec22117d3ba4e20041154749fbc12b8034762a3e0c9070b8e2f0fe3"
+hash = "7f95dd32b6b50763efe9848ba5cddbb14649f091ffb091cc9788897d2f222299"
 metafile = true
 
 [[files]]
@@ -459,6 +459,16 @@ hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
 
 [[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "31c2a0e56c320f751bf53a44d3f1bcdb4e3ab268b8d26543bc7ec2c638e52487"
+metafile = true
+
+[[files]]
+file = "mods/vivecraft.pw.toml"
+hash = "f0e99d7e2883e3bf83f4f6e24aa415624f658c3544fd6ed5a2029afd0db57e7b"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d912d9e221bd014cecf575f4389dee37238258ef69ad27ba64c021487441da46"
 metafile = true
@@ -490,5 +500,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/translations-for-sodium.pw.toml"
-hash = "60f6bbb4c9edc73c1fbe871e485949dd9a337fb6a95990543935f59619955d38"
+hash = "3bf261a2ce2d04c1044cfd12b1cdadd3e69904878b06e4ef0d579f521e7fe3f6"
 metafile = true
