@@ -5,10 +5,6 @@ file = "1.txt"
 hash = "8226ef19b5e49eacde59fa9ea48dbdfa4c338cd176a6b561947c11a09c16da65"
 
 [[files]]
-file = "add.py"
-hash = "d97b6236cf99206366181eb98dc3758c1e3ce94dbde60be0fd23556e84c82bb7"
-
-[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
