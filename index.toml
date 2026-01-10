@@ -319,11 +319,6 @@ hash = "c27c70a1fdb36fc974c98b6c678de8d1c2fd8e3705d90ad5089b82421933bf00"
 metafile = true
 
 [[files]]
-file = "mods/persistent-parrots.pw.toml"
-hash = "21079a0d7f79c79b937e35ec240a10003f16045fde0c6aa66395cc8edd34d847"
-metafile = true
-
-[[files]]
 file = "mods/polytone.pw.toml"
 hash = "ca74da88eec22117d3ba4e20041154749fbc12b8034762a3e0c9070b8e2f0fe3"
 metafile = true
