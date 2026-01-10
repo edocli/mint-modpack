@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "932d3ea74dd29c1e42a3adae153f5e95cfbc22dfcbe5d05e18f8751bf67a1e7c"
+hash = "8226ef19b5e49eacde59fa9ea48dbdfa4c338cd176a6b561947c11a09c16da65"
 
 [[files]]
 file = "add.py"
@@ -215,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
-hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
+hash = "74c1a37e77c6235d386006f6430721f557b109d86c6681f6252c4b83908e66ca"
 metafile = true
 
 [[files]]
