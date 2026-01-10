@@ -82,3 +82,5 @@ libIPN (https://modrinth.com/mod/onSQdWhM)
 //FabricProxy-Lite server
 //LuckPerms-Fabric server
 //FTB Backups 2 备份，很重要 architectury api + （polylib） 前置
+
+https://modrinth.com/mod/leashable-players

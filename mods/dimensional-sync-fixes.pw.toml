@@ -1,0 +1,13 @@
+name = "Dimensional Sync Fixes"
+filename = "dimensionalsyncfixes-fabric-1.20.1-0.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/445bpKSe/versions/E29prwyG/dimensionalsyncfixes-fabric-1.20.1-0.0.2.jar"
+hash-format = "sha512"
+hash = "b2a8cc658612dd6025d703a6ab7ed0bb9497b68a22cb5e63f03f18b378b238e5161f3e44566ab3d3c0cd68d08fa9a2362744d65e7e1af6bf7e170f2c9cbdf7c3"
+
+[update]
+[update.modrinth]
+mod-id = "445bpKSe"
+version = "E29prwyG"

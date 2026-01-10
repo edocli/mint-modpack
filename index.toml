@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "4b55680d1a55f187ca364fe3d1522aaccdec6cb7231b3c8db9a65ff3be210e96"
+hash = "98cd470af90f638569822c421a19b0bc357a7169cfc6e0a004f5f10823f5d814"
 
 [[files]]
 file = "add.py"
@@ -26,6 +26,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "0c8a62a213ee50629ec25fbddc988cbdeae36d906df8d5e8924dfd172d116166"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "30eff8901d5955ab62196e335926047f6c00278fd95eb04b4e4b7122a8c31f15"
 metafile = true
 
 [[files]]
@@ -61,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "4737f39234f9cf1faf075ea80228ce38982e56cc9df8a277aff3a0e10e4005ad"
+metafile = true
+
+[[files]]
+file = "mods/clumps.pw.toml"
+hash = "ddc991dfa762aeba4304f7e9155b00a5c8b98947a0a44006043b0001bcdb7f42"
 metafile = true
 
 [[files]]
@@ -101,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/despawn-tweaks.pw.toml"
 hash = "0ce0c564bd922e36b1ce0509942c027cd7385a6bcef075e0b80756742422f3a8"
+metafile = true
+
+[[files]]
+file = "mods/dimensional-sync-fixes.pw.toml"
+hash = "5b08c0809c8cef8e7bcfac83c55358a13645ba084aa2af883439ad59e7376c1e"
 metafile = true
 
 [[files]]
@@ -174,6 +189,11 @@ hash = "324a179d92186b13ec7059000e01739e1e627fd08eade9b59962e968d6292f6b"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "1bd2525bd0b9c600f3ce691e72e61547743fb3b1d5b5b8b8fdbe370cd8adf720"
+metafile = true
+
+[[files]]
 file = "mods/get-it-together-drops.pw.toml"
 hash = "d8178bc909f07e30d50bb7c9a5f34130b6c7847b70043974fec450cc62dd9402"
 metafile = true
@@ -224,8 +244,18 @@ hash = "3d21f13970fdd89524a8e0520c8a6ec774a6fe4b37b49d295e956e17dc9ffadc"
 metafile = true
 
 [[files]]
+file = "mods/lmft.pw.toml"
+hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+metafile = true
+
+[[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
@@ -246,6 +276,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "daec0d362957def2195281d781f0d4937f95e162fd0304a4965edc79de1a62e1"
+metafile = true
+
+[[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "d7aaccec2291f2be791ec0cc3185102eec7aabc9323f6262343293a375603db5"
 metafile = true
 
 [[files]]
@@ -276,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/neruina.pw.toml"
 hash = "f42ebaf193a5b9571fd69afd92ad3d6e0b73535ab97e385314801b81b6325767"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "ba5ff18e27aa4a5ef3cc763c0f17178c57a916b183035678715ff0fa3f6fee6b"
 metafile = true
 
 [[files]]
@@ -384,6 +424,16 @@ hash = "196310c8f35ff43df20828f78aeaa532c62faa036c58a913ca9d419cfa39c2d4"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "f010bbe486733738e92241d10f403e28a8feeb40b45ec3af3b2270523f955216"
+metafile = true
+
+[[files]]
+file = "mods/stackdeobf.pw.toml"
+hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "c527a3d8f6c2c3dce7b7a8afb2b94676298f15867a19698b20d2c14905b24ca0"
 metafile = true
@@ -399,6 +449,11 @@ hash = "a5b7358eb8b4795a3ab36872a8c2a0e1c1bf6a518a168f2eb10b695a35cb64b5"
 metafile = true
 
 [[files]]
+file = "mods/too-fast.pw.toml"
+hash = "70f6a98166861713797757383bb8d23d84cfdca39d771a6a4af333d1c08ec706"
+metafile = true
+
+[[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
@@ -411,6 +466,11 @@ metafile = true
 [[files]]
 file = "mods/wither-spawn-fix.pw.toml"
 hash = "bc3bc01c073708a936373576fbbbc6bc1737b19ad35df2978c65d7440e6a8ad4"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
 metafile = true
 
 [[files]]
