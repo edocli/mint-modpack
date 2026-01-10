@@ -1,0 +1,13 @@
+name = "Smelting Plus"
+filename = "smelting-plus-1.0.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/xDvYGZrH/versions/fDMAntBK/smelting-plus-1.0.5.jar"
+hash-format = "sha512"
+hash = "67ddabae4aa6e9bcc60522776fe8a299df7a91ba05ad861d2874e794b08c6d24df71cafa21d88bf9d263a8a888569667a4debabe0b7c59e505878c959c97c773"
+
+[update]
+[update.modrinth]
+mod-id = "xDvYGZrH"
+version = "fDMAntBK"

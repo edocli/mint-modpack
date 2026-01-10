@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "0af9763199f773a2f6652ce587a9fffece68e4448478d8cf3ea93de43adccc29"
+hash = "b27c29235e83dbb144624afb018d6a878b5fe692a1d84212c2b8b124fc8b594f"
 
 [[files]]
 file = "mods/almanac.pw.toml"
@@ -155,8 +155,18 @@ hash = "41a6d40e46a685470508c4758088dc13c812a44fa54c2773ffdd4dd02e5e5225"
 metafile = true
 
 [[files]]
+file = "mods/dragon-drops-elytra.pw.toml"
+hash = "51eac58292952b77caab6b2bbdc4add2826421da7d828f8edd165ae8aad83e2f"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
 hash = "0d7166d7b95a9311ca0e4fea8ba4440da2a3364d35fce71a6b5a54b6a074f672"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
@@ -260,6 +270,11 @@ hash = "e3f9f0233938416ad52533f870fd79b3c5b7ffff5625c03b7d4f234a238b602b"
 metafile = true
 
 [[files]]
+file = "mods/hopo-better-ruined-portals.pw.toml"
+hash = "6573bbc387f7dabf7c014cb830250d7d43f17f4e8f69b1a2b3e2ff459ecb933b"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "71000b312b12a7c1556899206571c6a823d743d0b268e28286357a9fc9535f9d"
 metafile = true
@@ -332,6 +347,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "fcd62130e02039c9af5789a548fc1c0fc00e0ba4e26ed4bc020c10e69313d25c"
+metafile = true
+
+[[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
 metafile = true
 
 [[files]]
@@ -465,6 +485,11 @@ hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
+file = "mods/players-drop-heads.pw.toml"
+hash = "e5fa3235e5b07786bec1031f0a0aef78af99841e6c3198c5947b19582a25e4d7"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "ca74da88eec22117d3ba4e20041154749fbc12b8034762a3e0c9070b8e2f0fe3"
 metafile = true
@@ -520,6 +545,11 @@ hash = "c57e6153e7e3ed9f8bd8149ab4e11c76cb8050304187bf2fb5972086bf8e8a58"
 metafile = true
 
 [[files]]
+file = "mods/smelting-plus.pw.toml"
+hash = "7dcc5328056f5a014f032495fde7db13e5abee60d6262bc6929b6f60cbf886f3"
+metafile = true
+
+[[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "c88fc616045499e1e793fbb68a7906e1f4b744452bbd5eff8601b35f6fd7d069"
 metafile = true
@@ -551,7 +581,7 @@ metafile = true
 
 [[files]]
 file = "mods/spawn-animations-compats.pw.toml"
-hash = "706d2359222786aa97cd7a09da553b385bcf1de873f875e234e686cf3f5e8a01"
+hash = "66269892c41981234e65f3c36501e415057479851a95bf39cca0f2441b75f4c3"
 metafile = true
 
 [[files]]
