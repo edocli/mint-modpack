@@ -1,0 +1,13 @@
+name = "PolyLib"
+filename = "polylib-fabric-2000.0.3-build.143.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6lvkzFFj/versions/jG4b4KjD/polylib-fabric-2000.0.3-build.143.jar"
+hash-format = "sha512"
+hash = "199ff1fbc566073a90adf634c45e0ade52eab816ea29c6d7164516bbef0d6f9a5031e96d9bcdcdeb0f1a24eb975c15d48a6a6b103a9c379240626658900a3f22"
+
+[update]
+[update.modrinth]
+mod-id = "6lvkzFFj"
+version = "jG4b4KjD"

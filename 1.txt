@@ -85,3 +85,12 @@ libIPN (https://modrinth.com/mod/onSQdWhM)
 //svc
 
 https://modrinth.com/mod/leashable-players
+
+
+❯ packwiz cf add https://www.curseforge.com/minecraft/mc-mods/ftb-backups-2
+Looking up CurseForge slug...
+Finding dependencies...
+Dependencies found:
+PolyLib
+Architectury API
+Fabric API

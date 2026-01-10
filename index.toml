@@ -19,6 +19,11 @@ hash = "a26507b8d655a13e1ec6901e620a3d8fbd0840b9c239b2fb8a32e1b43800e557"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
+metafile = true
+
+[[files]]
 file = "mods/async-locator.pw.toml"
 hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
@@ -170,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5aec219adc9536b4554033a54c563a027297a319836ef5e8dd3078fda8ac2e32"
+hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
 
 [[files]]
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "324a179d92186b13ec7059000e01739e1e627fd08eade9b59962e968d6292f6b"
+metafile = true
+
+[[files]]
+file = "mods/ftb-backups-2.pw.toml"
+hash = "e12efb0447977a5259d05fbbb05049cc73a15314058761fb276485c70b86fe37"
 metafile = true
 
 [[files]]
@@ -381,6 +391,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "c27c70a1fdb36fc974c98b6c678de8d1c2fd8e3705d90ad5089b82421933bf00"
+metafile = true
+
+[[files]]
+file = "mods/polylib.pw.toml"
+hash = "d10c7314bd4845f55a4e923b2f7a8891c97636412d7dddb4b7014deaaee2fb2a"
 metafile = true
 
 [[files]]
