@@ -24,6 +24,11 @@ hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "971cc8d8f2d07262a8de83696b1be17428b3b8a7de7ceadb6108d1b1ca0e2f3f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "0c8a62a213ee50629ec25fbddc988cbdeae36d906df8d5e8924dfd172d116166"
 metafile = true
@@ -94,6 +99,11 @@ hash = "2392f990be06a1d39bb2e9679435e8e7482f96e52ac54578a029d8b01a07886f"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "899a506ec93d9bbc84e58aebeb369847493f97a4383e6691a5d51dbb9c2f6ea2"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "52355f7f314b3208a1a51ed5ca0ad94986eb22ab174465fbe36b92a3c5b3c7fe"
 metafile = true
@@ -134,6 +144,11 @@ hash = "4fd121c92d84e12982ecaa541afbcfd53d2f3fad25c82b794cac5903e2649ea4"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "0c4c4fa5b5241b28397eeba0890673147e972ea34b705de381c9ade8ea336847"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "08784382ad844087012493864fcc24a68530dc285d8145cf0ff87e347935c618"
 metafile = true
@@ -161,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2831d2be7f52107b8cb23145f8812485c7ee12107a4eabf47d39d5b5d778cf04"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "4a35e5e9d37fb810998466578339831f0c7d516b6353f537d1b1be04f838d399"
 metafile = true
 
 [[files]]
@@ -251,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/log-cleaner.pw.toml"
 hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "ed322399f2f703b5cc9f6652d85e8eb215a53c7acbeef27964c0d6af7400561a"
 metafile = true
 
 [[files]]
@@ -409,6 +434,11 @@ hash = "6b2c8134ee719202862859e4db7b8c9f6e6ae9e9edeffd102cd1aac72914d1dc"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6225a36557ab2dfd1c4d3fb3c0868ed61c465d3246695b10ff10d339f65e3302"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f46a28713596f69fcbbd90870844a2e3e6ffc6000ae3ceb6164fc39223bd6175"
 metafile = true
@@ -471,6 +501,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d912d9e221bd014cecf575f4389dee37238258ef69ad27ba64c021487441da46"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
