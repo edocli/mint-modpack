@@ -1,0 +1,13 @@
+name = "MC-249136 Fix"
+filename = "mc249136-1.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/QzMW0gl4/versions/fL69krwO/mc249136-1.0.2.jar"
+hash-format = "sha512"
+hash = "79bc00f9802bf186ecf9938b8383e8c7257e63afc7379e4e0ce74dcf162ed1ff920e5adbc960b674e37a19a687434e178fcc4aa74062f0c4aea709b61eddc795"
+
+[update]
+[update.modrinth]
+mod-id = "QzMW0gl4"
+version = "fL69krwO"

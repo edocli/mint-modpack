@@ -1,0 +1,13 @@
+name = "Cerulean"
+filename = "cerulean-fabric-1.0.0-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/dv57xmf9/versions/BsvL0CXe/cerulean-fabric-1.0.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "0be9fb52cd617e5fa30090e152ad9d41ad26412c6be5394cc7f886eff7af4d6a2b57c7e2b1e983d465c5bce2b139a07c3fb7f82a1302cea2f4f05d8d0e00761a"
+
+[update]
+[update.modrinth]
+mod-id = "dv57xmf9"
+version = "BsvL0CXe"

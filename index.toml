@@ -2,15 +2,25 @@ hash-format = "sha256"
 
 [[files]]
 file = "1.txt"
-hash = "05490592240c746b4c3e192e1ba7e05d778850c9a91dfd09a1218d8c0c38084c"
+hash = "4b55680d1a55f187ca364fe3d1522aaccdec6cb7231b3c8db9a65ff3be210e96"
 
 [[files]]
 file = "add.py"
 hash = "d97b6236cf99206366181eb98dc3758c1e3ce94dbde60be0fd23556e84c82bb7"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "a26507b8d655a13e1ec6901e620a3d8fbd0840b9c239b2fb8a32e1b43800e557"
+metafile = true
+
+[[files]]
+file = "mods/async-locator.pw.toml"
+hash = "724f61e7275d6a46f035a411271466f6626238883998a8fb8c6558b5756aa42d"
 metafile = true
 
 [[files]]
@@ -39,6 +49,11 @@ hash = "2ea660633b80f4d21fb03008958df7a596afe3dfbe9b737dfe12929ed1ef92d0"
 metafile = true
 
 [[files]]
+file = "mods/cerulean-advancements.pw.toml"
+hash = "3d125cc78aa95b5264dd5be892b93da4398afb7e6813ae66c2838abdd5531b52"
+metafile = true
+
+[[files]]
 file = "mods/chatpatches.pw.toml"
 hash = "896ec8a8f0524aaf58d311a316c137ce8934154732c4c3425c3b571fcc86c7ce"
 metafile = true
@@ -64,6 +79,11 @@ hash = "02b241514a81b37b21c080ca9cc5f3815a4ceafc4424f4feb8d5073cfafa61e9"
 metafile = true
 
 [[files]]
+file = "mods/crashexploitfixer.pw.toml"
+hash = "2392f990be06a1d39bb2e9679435e8e7482f96e52ac54578a029d8b01a07886f"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "52355f7f314b3208a1a51ed5ca0ad94986eb22ab174465fbe36b92a3c5b3c7fe"
 metafile = true
@@ -79,6 +99,11 @@ hash = "9326ad2077287f079ab68743e5d597af75bf7f166927079fcfa7545fc86c4cd5"
 metafile = true
 
 [[files]]
+file = "mods/despawn-tweaks.pw.toml"
+hash = "0ce0c564bd922e36b1ce0509942c027cd7385a6bcef075e0b80756742422f3a8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "cb8962724f1752a9dbe170cb76127fa6abe5eb24c88598a1d720591d6f92411a"
 metafile = true
@@ -89,8 +114,18 @@ hash = "816b719eb96d91e39a44ead15dbe176951484a1915c52f05eed9100dfadf280d"
 metafile = true
 
 [[files]]
+file = "mods/enchanter-fix.pw.toml"
+hash = "4fd121c92d84e12982ecaa541afbcfd53d2f3fad25c82b794cac5903e2649ea4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "08784382ad844087012493864fcc24a68530dc285d8145cf0ff87e347935c618"
+metafile = true
+
+[[files]]
+file = "mods/entity-view-distance.pw.toml"
+hash = "a3891363dcc4c96b0e19718ce53e1a1b4c467b4681f99af568796e0a07050f8d"
 metafile = true
 
 [[files]]
@@ -139,6 +174,16 @@ hash = "324a179d92186b13ec7059000e01739e1e627fd08eade9b59962e968d6292f6b"
 metafile = true
 
 [[files]]
+file = "mods/get-it-together-drops.pw.toml"
+hash = "d8178bc909f07e30d50bb7c9a5f34130b6c7847b70043974fec450cc62dd9402"
+metafile = true
+
+[[files]]
+file = "mods/headfix.pw.toml"
+hash = "94ebce898c55856623be4582ad677b4888c1899b85dbe16bc9febe7151141c99"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3fc5381d3b12edccba3108a99830466358ed44c8fa55d12bbd2f9d84687e50e2"
 metafile = true
@@ -154,6 +199,11 @@ hash = "fe3e6bdf7ee24ca65e68ffe7110f0eb6c9c27bfcb94b190f63063aba4c7ff2bd"
 metafile = true
 
 [[files]]
+file = "mods/jukebox-custom-disc-fix.pw.toml"
+hash = "a719cea40cec168e27f01ba15f9fbb56f8d2e8341695b51506f540bbf04e9aa1"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "4fb1efcf4c3c16eac7382421134d6472130884b9e4dd2a57fe0eb62c47203173"
 metafile = true
@@ -164,13 +214,28 @@ hash = "d81fd8c747b4cbb57a31817584df701d266d3e59b5d82bb408020803e1ed6ee9"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "3d21f13970fdd89524a8e0520c8a6ec774a6fe4b37b49d295e956e17dc9ffadc"
 metafile = true
 
 [[files]]
+file = "mods/log-cleaner.pw.toml"
+hash = "63d64f4754723d236a768caf68ab67c358b19973b83ece45adf614ce0b9a4314"
+metafile = true
+
+[[files]]
 file = "mods/macos-input-fixes.pw.toml"
 hash = "ac064da8e05f3c215e850f34a78004e0742575c3cef3165040cb5cd5e6a40e99"
+metafile = true
+
+[[files]]
+file = "mods/mc-249136-fix.pw.toml"
+hash = "034e3cbe6739968adf7bc417f7746bb798b8ceda894c07a8c43a8c7c68412356"
 metafile = true
 
 [[files]]
@@ -254,6 +319,11 @@ hash = "c27c70a1fdb36fc974c98b6c678de8d1c2fd8e3705d90ad5089b82421933bf00"
 metafile = true
 
 [[files]]
+file = "mods/persistent-parrots.pw.toml"
+hash = "21079a0d7f79c79b937e35ec240a10003f16045fde0c6aa66395cc8edd34d847"
+metafile = true
+
+[[files]]
 file = "mods/polytone.pw.toml"
 hash = "ca74da88eec22117d3ba4e20041154749fbc12b8034762a3e0c9070b8e2f0fe3"
 metafile = true
@@ -264,8 +334,23 @@ hash = "08c75262a7504024ca9db500ea0ae73a4be8f41e34189015d92d0e2a4280f564"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
+metafile = true
+
+[[files]]
+file = "mods/recipecooldown.pw.toml"
+hash = "43fbc9b70f49998be45314b9b557e925988825a204190be01ccbae5cc2df74df"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "025c644cfcbdb32ceaa85029588101c71089888a5dd6b83d2b54da285718efa5"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
 metafile = true
 
 [[files]]
@@ -281,6 +366,11 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "2428fa3db05e2f3efd181e9a1b37c3a9a293c62b9ab82abc846c311345d8ef59"
+metafile = true
+
+[[files]]
+file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
+hash = "6b2c8134ee719202862859e4db7b8c9f6e6ae9e9edeffd102cd1aac72914d1dc"
 metafile = true
 
 [[files]]
@@ -304,13 +394,28 @@ hash = "c527a3d8f6c2c3dce7b7a8afb2b94676298f15867a19698b20d2c14905b24ca0"
 metafile = true
 
 [[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "ab1caf459e3b803868cbf28639c9ad86e016d650ca2e1c6a78a38d2436abdafd"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "a5b7358eb8b4795a3ab36872a8c2a0e1c1bf6a518a168f2eb10b695a35cb64b5"
 metafile = true
 
 [[files]]
+file = "mods/txnilib.pw.toml"
+hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d912d9e221bd014cecf575f4389dee37238258ef69ad27ba64c021487441da46"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-fix.pw.toml"
+hash = "bc3bc01c073708a936373576fbbbc6bc1737b19ad35df2978c65d7440e6a8ad4"
 metafile = true
 
 [[files]]
